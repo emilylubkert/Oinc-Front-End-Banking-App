@@ -1,4 +1,5 @@
 # OIN¢: A MONEY TRACKING APP FOR KIDS
+Try it [here](http://emily-lubkertbankingapplication.s3-website-us-west-1.amazonaws.com/)
 
 ## Description
 Kids can get a surprising amount of money: tooth fairy coins, gifts from the grandparents, pennies from the couch. And unlike most our financial transactions, it's almost all in cash. This can come in handy when we need cash to pay the babysitter, but it's a lot to keep track of. OIN¢ can help. OIN¢ is a simple tracking app that kids and their parents can use to keep track of the money coming in and out.
