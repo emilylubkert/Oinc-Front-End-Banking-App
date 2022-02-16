@@ -1,0 +1,151 @@
+body {
+  font-family: 'Sintony', sans-serif;
+  background-color: #0f5f53;
+}
+
+.bank-icon {
+  display: block;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.bank-logo {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+
+nav > a {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+.nav-item > a {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+
+.account-btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn-info {
+  background-color: #efaa9c;
+  border: #9dc88d;
+}
+
+.btn-info:hover {
+  background-color: #9dc88d;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background-color: transparent;
+  display: block;
+  padding: 0.5rem 1rem;
+}
+
+.contact-btn {
+  position: absolute;
+  top: 70px;
+  right: 10px;
+}
+.contact-icon {
+  padding-left: 8px;
+}
+
+.contact-text {
+  color: white;
+}
+
+.contact-link {
+  margin-right: 20px;
+  min-width: 100px;
+}
+
+.contact-link > h4 {
+  color: #efaa9c;
+}
+
+.deposit-withdraw-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  min-height: 100px;
+}
+
+nav {
+  background-color: #efaa9c !important;
+}
+
+.nav-item > a:hover {
+  color: #0f5f53
+}
+
+.navbar-brand {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.navbar-nav {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.user-table {
+  border-collapse: separate;
+  border-spacing: 24px 0;
+  width: 100%;
+  text-align: left;
+}
+
+td {
+  padding: 10px 0;
+}
+
+.transaction-list {
+  width: 60%;
+  background-color: #ede8ea;
+}
+
+.transaction-list th,
+td {
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.transaction-list tr {
+  border: 1px solid #999;
+}
+
+h4 {
+  color: white;
+}
+
+.login-text {
+  color: #164a41;
+  padding-top: 20px;
+}
+
+h5 {
+  text-transform: capitalize;
+}
+
+.card-header {
+  text-transform: capitalize;
+}
+
+.welcome-text {
+  text-align: center;
+}

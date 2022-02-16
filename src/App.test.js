@@ -1,8 +1,10 @@
-import { render, screen } from '@testing-library/react';
+import { render } from '@testing-library/react';
+import userEvent from '@testing-library/user-event'
 import App from './App';
+import Deposit from './components/deposit';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('process deposit', () => {
+  const {getByLabelText, getByText} = render(
+    <Deposit 
+  )
 });
